@@ -15,4 +15,4 @@ RUN pip install -r requirements.txt
 
 # Run the streamlit on container startup
 # CMD [ "streamlit", "run","--server.enableCORS","false","imgwebapp.py" ]
-CMD ["app.py"]
+CMD ["python","app.py"]
