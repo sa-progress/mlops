@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: wineq
-        image: gcr.io/mlops-346119/wineq:v1
+        image: gcr.io/ppradhan/wineq:v1
         ports:
         - containerPort: 5001
