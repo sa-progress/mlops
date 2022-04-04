@@ -54,7 +54,7 @@ Project Organization
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
-
+``-------------git-----------``
 ```1 . What to do if code base is more than 500mb?```</br>
 ```2 . Deploy uing ci-cd to aws/azure/gcp instance.```</br>
 
