@@ -1,8 +1,6 @@
 mlops
 ==============================
 
-Mlops demo 
-
 Project Organization
 ------------
 
