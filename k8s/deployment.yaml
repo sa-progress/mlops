@@ -16,4 +16,4 @@ spec:
       - name: wineq
         image: gcr.io/ppradhan/wineq:v1
         ports:
-        - containerPort: 5001
+        - containerPort: 5000
