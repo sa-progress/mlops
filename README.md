@@ -1,4 +1,4 @@
-mlops_demo
+mlops
 ==============================
 
 Mlops demo 
